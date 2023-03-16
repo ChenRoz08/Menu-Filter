@@ -69,7 +69,7 @@ const Data = [
     category: "Dinner",
     price: "$22",
     img: "https://envato-shoebox-0.imgix.net/b1c6/6f17-d0c1-4043-a3db-59ffb0b54007/DSC04858.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=40b9000fd837532fddaf7766553ca3b5",
-    desc: "beef pad thai and chicken satay dinner can be your go-to dish for dinner parties as this is quite different from other kofta recipes and extremely delicious.",
+    desc: "Beef pad thai and chicken satay dinner can be your go-to dish for dinner parties as this is quite different from other kofta recipes and extremely delicious.",
   },
   {
     id: "10",
